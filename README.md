@@ -14,18 +14,17 @@
       <img src="Dashboard-Preview/2 - Executive program satisfaction surveys.jpg" width="100%">
       <br><b>02. Global Satisfaction Rate</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <img src="Dashboard-Preview/3 - Satisfaction at 6 months.jpg" width="100%">
       <br><b>03. Satisfaction per Certification</b>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="33%">
       <img src="Dashboard-Preview/4 - Global satisfaction rate.jpg" width="100%">
       <br><b>04. Comments & Remarks</b>
     </td>
-  </tr>
-    <tr>
     <td align="center" width="33%">
       <img src="Dashboard-Preview/5 - Satisfaction per certification.jpg" width="100%">
       <br><b>03. Satisfaction per Certification</b>
